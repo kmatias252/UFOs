@@ -14,3 +14,6 @@ The updated UFO sightings website allows the user to filter the data by inputtin
 
 ## Summary of Analysis:
 
+One drawback of this webpage is that the search filters do not accommodate for misspelling. If the user types in one of the five filter search options and the spelling or capitalization is not correct you will not get the desired output and the data will not refresh to what you are looking for. 
+
+Two recommendations I would develop are 1) instead of typing in your search option there is a drop down so you can click on the search options already provided within the five filters of the UFO webpage. This would also give the user the option to choose if they want to filter by day, month or year vs. a specific date. Another recommendation I would develop would be 2) the addition of a “new” button which would provide users with the option to input a UFO sighting and the necessary information such as date, city, state, country, shape, duration and comments so that the data is continuous versus fixed. 
